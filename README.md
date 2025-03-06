@@ -11,7 +11,8 @@ Built using HTML, CSS, and JavaScript (Fetch API from OpenWeatherMap).
 1. Clone the repo:  
 https://github.com/akabbas/weather-app.git
 2. Open `index.html` in your browser.
-3. Site should be live at https://akabbas.github.io/Simple-Weather-App/
+3. Run the html on your local PC (alternatively) 
+4. Site should be live at https://akabbas.github.io/Simple-Weather-App/
 
 ## Future Improvements
 Add a 5-day weather forecast.
