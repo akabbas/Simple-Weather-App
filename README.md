@@ -1,2 +1,2 @@
-# Simple-Weather-App
-a weather app created using HTML for the front end, CSS for the style, and Javascript for the backend
+# Simple Weather App  
+A lightweight weather app built with HTML, CSS, and JavaScript that fetches real-time weather data using OpenWeatherMap API.
