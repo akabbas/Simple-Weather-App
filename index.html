@@ -9,13 +9,26 @@
 <body>
     <div class="container">
         <h1>Weather App</h1>
-        <input type="text" id="cityInput" placeholder="Enter city name">
-        <button id="searchBtn">Search</button>
+        <div class="search-container">
+            <input type="text" id="cityInput" placeholder="Enter city name">
+            <button id="searchBtn">Search</button>
+        </div>
+        <div id="loading" class="loading hidden">Loading...</div>
         <div class="weather-info">
             <h2 class="city-name">City</h2>
-            <p class="city-temp">Temperature: </p>
-            <img class="city-icon" src="" alt="Weather Icon">
+            <div class="weather-main">
+                <img class="city-icon hidden" src="" alt="Weather Icon">
+                <div class="temp-container">
+                    <p class="city-temp">Temperature: </p>
+                    <button id="tempUnitToggle" class="temp-toggle">°C</button>
+                </div>
+            </div>
             <p class="city-description">Description: </p>
+            <div class="weather-details">
+                <p class="feels-like">Feels like: </p>
+                <p class="humidity">Humidity: </p>
+                <p class="wind-speed">Wind Speed: </p>
+            </div>
         </div>
         <p id="error"></p>
     </div>
