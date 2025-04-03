@@ -41,7 +41,7 @@ A modern, responsive weather application that provides real-time weather informa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Simple-Weather-App.git
+git clone https://github.com/akabbas/Simple-Weather-App.git
 cd Simple-Weather-App
 ```
 
@@ -114,6 +114,6 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## Contact 📧
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Ammr Abbasher - [@akabbas](https://github.com/akabbas)
 
-Project Link: [https://github.com/yourusername/Simple-Weather-App](https://github.com/yourusername/Simple-Weather-App)
+Project Link: [https://github.com/akabbas/Simple-Weather-App](https://github.com/akabbas/Simple-Weather-App)
