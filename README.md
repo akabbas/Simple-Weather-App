@@ -1,6 +1,7 @@
 # Simple Weather App 🌤️
 
 A modern, responsive weather application that provides real-time weather information for any city worldwide. Built with HTML, CSS, and JavaScript, this app offers a clean and intuitive interface with smooth animations and interactive features.
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/18376109-42ba-462f-85ef-6ff447b30106" />
 
 ## Features ✨
 
